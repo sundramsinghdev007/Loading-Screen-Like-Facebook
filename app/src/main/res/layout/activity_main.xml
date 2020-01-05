@@ -32,7 +32,7 @@
 
     </com.facebook.shimmer.ShimmerFrameLayout>
    <TextView
-       android:fontFamily=""
+       android:fontFamily="sans-serif-condensed-light"
        android:textStyle="bold"
        android:textColor="@color/colorPrimary"
        android:textAlignment="center"
