@@ -32,7 +32,7 @@
 
     </com.facebook.shimmer.ShimmerFrameLayout>
    <TextView
-       android:fontFamily="sans-serif-condensed-light"
+       android:fontFamily=""
        android:textStyle="bold"
        android:textColor="@color/colorPrimary"
        android:textAlignment="center"
@@ -41,5 +41,5 @@
        android:layout_height="wrap_content"
        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
        android:text="Example Loading Screen Like Facebook"
-       tools:ignore="MissingConstraints" />
+       />
 </RelativeLayout>
